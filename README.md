@@ -1,6 +1,6 @@
 ### Hey there, I'm  Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="m-hamzashakeel | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
+
 [<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 [<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
@@ -15,10 +15,9 @@
 #### Talking about my personal stuff:
 
 
-- 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
-- ✍ I also do technical writing on Medium
-- 📱 First Live app on Play Store coming soon.
-- ✨ I'm learning Flutter Full Stack Development, AR & ML
+- 💻 The tech I'm interested in is React with TypeScript, Node JS & DSA
+- - ✍ I also do technical writing on Medium
+- ✨ I'm learning MERN Stack Development & DBMS
 - 📄 [Resume][profile]
 
 ### Languages & Tools
@@ -41,9 +40,9 @@
 Open Source Contributor from <b>India<b> 💻
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
-[twitter]: https://www.twitter.com/Spinozious/
+[twitter]: https://www.twitter.com/fayazm0t/
 [linkedin]: https://www.linkedin.com/in/sam-jeffrey-2091731a7/
-[instagram]: https://www.instagram.com/samjefree/
-[medium]: https://medium.com/@sam.8.jy
+[instagram]: https://www.instagram.com/fayazm0/
+[medium]: https://medium.com/@fayazm0
 [facebook]: https://www.facebook.com/mhamzadev
 [profile]: http://m-hamzashakeel.github.io
