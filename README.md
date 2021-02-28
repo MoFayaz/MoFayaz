@@ -42,7 +42,7 @@ Open Source Contributor from <b>India<b> 💻
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/fayazm0t/
-[linkedin]: https://www.linkedin.com/in/sam-jeffrey-2091731a7/
+[linkedin]: https://www.linkedin.com/in/mohamed-fayaz-4052b4208/
 [instagram]: https://www.instagram.com/fayazm0/
 [medium]: https://medium.com/@fayazm0
 [facebook]: https://www.facebook.com/mhamzadev
