@@ -1,21 +1,21 @@
 ### Hey there, I'm  Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<!-- [<img align="left" alt="m-hamzashakeel | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter] -->
-<!-- [<img align="left" alt="m-hamzashakeel | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin] -->
-[<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-<!-- [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium] -->
+<!-- [<img align="left" alt="MoFayaz | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter] -->
+<!-- [<img align="left" alt="MoFayaz | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin] -->
+[<img align="left" alt="MoFayaz | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+<!-- [<img align="left" alt="MoFayaz | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium] -->
+[<img align="left" alt="MoFayaz | Portfolio" width=22px src="https://img.icons8.com/ios-filled/50/000000/portfolio.png">][portfolio]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MoFayaz.MoFayaz)
 
-### A Student, Developer & Writer
+### A Student, Developer & Designer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-
-- 💻 The tech I'm interested in is React with TypeScript, Node JS & DSA
+- 💻 The tech I'm interested in is React, Node JS & DSA
 - ✍ I also do technical writing on Medium
 - ✨ I'm learning MERN Stack Development & DBMS
 - 📄 [Resume][profile]
@@ -34,16 +34,14 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=MoFayaz&theme=gotham)](https://github.com/MoFayaz/github-readme-stats)
+[![MoFayaz's github stats](https://github-readme-stats.vercel.app/api?username=MoFayaz&theme=gotham)](https://github.com/MoFayaz/github-readme-stats)
 
 
 
 Open Source Contributor from <b>India<b> 💻
 
-[quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/fayazm0t/
 [linkedin]: https://www.linkedin.com/in/mohamed-fayaz-4052b4208/
 [instagram]: https://www.instagram.com/fayazm0/
 [medium]: https://medium.com/@fayazm0
-[facebook]: https://www.facebook.com/mhamzadev
-[profile]: http://m-hamzashakeel.github.io
+[profile]: http://mofayazz.web.app
