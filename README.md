@@ -15,10 +15,10 @@
 
 #### Talking about my personal stuff:
 
-- 💻 The tech I'm interested in is React, Node JS & DSA
-- ✍ I also do technical writing on Medium
-- ✨ I'm learning MERN Stack Development & DBMS
-- 📄 [Resume][profile]
+- 💻 The Technologies I'm interested for Frontend: ReactJS, VueJS & NextJS (Framework of ReactJS). Backend: NodeJS
+- 📐 Graphic design is another interesting thing I do.
+- ₿ Blockchain Technology is in my to-learn list.
+- 🎵Other than the technology, I love music production
 
 ### Languages & Tools
 
