@@ -16,9 +16,8 @@
 #### Talking about my personal stuff:
 
 - 💻 The Technologies I'm interested for Frontend: ReactJS, VueJS & NextJS (Framework of ReactJS). Backend: NodeJS
-- 📐 Graphic design is another interesting thing I do.
+- 📐 Graphic design is interesting thing I do.
 - ₿ Blockchain Technology is in my to-learn list.
-- 🎵Other than the technology, I love music production
 
 ### Languages & Tools
 
