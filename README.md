@@ -10,8 +10,9 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=MoFayaz.MoFayaz) -->
 
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
+<br/>
 
-
+### Languages & Tools:
 - 💻 NextJS
 - 📐 Graphic Design
 - ₿ Blockchain | Web 3.
