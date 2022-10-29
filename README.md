@@ -21,9 +21,8 @@
 
 ### Languages & Tools
 
-<code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download%20(2).png"></code>
 <code><img width=24px src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download%20(2).png"></code>
 
 
 <!-- <summary>📝 My GitHub Stats</summary>
