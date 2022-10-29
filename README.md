@@ -15,33 +15,27 @@
 
 #### Talking about my personal stuff:
 
-- 💻 The Technologies I'm interested for Frontend: ReactJS, VueJS & NextJS (Framework of ReactJS). Backend: NodeJS
-- 📐 Graphic design is interesting thing I do.
-- ₿ Blockchain Technology is in my to-learn list.
+- 💻 NextJS
+- 📐 Graphic Design
+- ₿ Blockchain | Web 3.
 
 ### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download%20(2).png"></code>
 <code><img width=24px src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/nodejs-icon.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/typescript-1-1175078.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<summary>📝 My GitHub Stats</summary>
+
+<!-- <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![MoFayaz's github stats](https://github-readme-stats.vercel.app/api?username=MoFayaz&theme=gotham)](https://github.com/MoFayaz/github-readme-stats)
+[![MoFayaz's github stats](https://github-readme-stats.vercel.app/api?username=MoFayaz&theme=gotham)](https://github.com/MoFayaz/github-readme-stats) -->
 
 
 
 Open Source Contributor from <b>India<b> 💻
 
-[twitter]: https://www.twitter.com/fayazm0t/
-[linkedin]: https://www.linkedin.com/in/mohamed-fayaz-4052b4208/
-[instagram]: https://www.instagram.com/fayazm0/
-[medium]: https://medium.com/@fayazm0
-[profile]: http://mofayazz.web.app
+[twitter]: https://www.twitter.com/fayaz0_/
+[linkedin]: https://www.linkedin.com/in/fayazm0/
+[instagram]: https://www.instagram.com/fayaz0_/
+<!-- [profile]: http://mofayazz.web.app -->
