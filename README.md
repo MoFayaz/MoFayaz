@@ -1,4 +1,4 @@
-### Hey there, I'm  Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Fayaz. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [<img align="left" alt="MoFayaz | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
@@ -9,17 +9,13 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=MoFayaz.MoFayaz) -->
 
-### A Student, Developer & Designer
+<!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-#### Talking about my personal stuff:
+#### Languages & Tools:
 
 - 💻 NextJS
 - 📐 Graphic Design
 - ₿ Blockchain | Web 3.
-
-### Languages & Tools
 
 <code><img width=24px src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/MoFayaz/MoFayaz/main/.github/images/download%20(2).png"></code>
