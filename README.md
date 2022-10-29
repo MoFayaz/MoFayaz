@@ -1,13 +1,13 @@
 ### Hey there, I'm  Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<!-- [<img align="left" alt="MoFayaz | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter] -->
-<!-- [<img align="left" alt="MoFayaz | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin] -->
+[<img align="left" alt="MoFayaz | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="MoFayaz | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="MoFayaz | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 <!-- [<img align="left" alt="MoFayaz | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium] -->
-[<img align="left" alt="MoFayaz | Portfolio" width=22px src="https://img.icons8.com/ios-filled/50/000000/portfolio.png">][profile]
+<!-- [<img align="left" alt="MoFayaz | Portfolio" width=22px src="https://img.icons8.com/ios-filled/50/000000/portfolio.png">][profile] -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=MoFayaz.MoFayaz)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=MoFayaz.MoFayaz) -->
 
 ### A Student, Developer & Designer
 
